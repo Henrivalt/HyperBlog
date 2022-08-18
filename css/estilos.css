@@ -8,7 +8,7 @@ body{
 }
 #container{
     width:70%;
-    padding:15px;
+    padding:0px;
     text-align:left;
     border:1px solid rgb(126, 126, 126);
     margin:0 auto;
@@ -22,4 +22,12 @@ body{
     font-weight: bold;
     margin:0;
     padding:0.5em;
+}
+#footer{
+    text-align:center;
+    background-color: rgb(78, 78, 78);
+    width:auto;
+    color:white;
+    padding:10px;
+
 }
